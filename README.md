@@ -45,7 +45,6 @@ Once the plugin is installed, just describe the moment. For example:
 
 ```
 .claude-plugin/plugin.json
-.claude-plugin/icon.png                        HeroMi logo shown in the directory
 skills/help-me-now/SKILL.md                    the method and response format
 skills/help-me-now/references/situations.md    situations and age bands
 skills/help-me-now/references/safety.md        safety check and crisis resources
