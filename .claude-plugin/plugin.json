@@ -1,8 +1,9 @@
 {
   "name": "heromi-help-me-now",
   "displayName": "HeroMi Help Me Now: Parenting in Hard Moments",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Tantrum, meltdown, hitting, refusing, or about to lose it yourself? Calm, shame-free steps and exact words to say, for kids aged 2 to 12.",
+  "icon": "./.claude-plugin/icon.png",
   "author": {
     "name": "HeroMi",
     "url": "https://heromi.app"
